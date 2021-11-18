@@ -1,0 +1,29 @@
+_repo: Coleccion-de-Documentos-Ineditos-Relativos-al-Descubrimiento-Conquista-y-Organizacion-de-las-__66554
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Real Academia de la Historia (Spain)
+    aliases:
+    - Historia, Real Academia de la
+    - Academia de la Historia, Madrid
+    - Regia Historiae Academia Hispana
+    gutenberg_agent_id: '47252'
+    url: http://www.gutenberg.org/2009/agents/47252
+    wikipedia: https://es.wikipedia.org/wiki/Real_Academia_de_la_Historia
+description: ''
+gutenberg_issued: '2021-10-17'
+identifiers:
+  gutenberg: '66554'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Colonies'
+- !lcc 'DS'
+- !lcsh 'Spain -- Colonies -- Administration -- History -- Sources'
+- GITenberg
+title: Colección de Documentos Inéditos Relativos al Descubrimiento, Conquista y Organización
+  de las Antiguas Posesiones Españolas de Ultramar. Tomo 10, De Los Documentos Legislativos,
+  III
+url: http://www.gutenberg.org/ebooks/66554
